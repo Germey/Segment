@@ -7,7 +7,7 @@ __pycache__/
 cws.model
 # C extensions
 *.so
-
+.idea/
 # Distribution / packaging
 .Python
 build/
